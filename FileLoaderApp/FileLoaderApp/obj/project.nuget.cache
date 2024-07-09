@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLR5x3XI2v54/pXTbUtHZVKfplp7d/TZVhPBAj+hFQtajfsdkYgiGTaxCI5MRHMNRADokWlNqncGVQ+aOyqK3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\FileLoaderApp\\FileLoaderApp\\FileLoaderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
